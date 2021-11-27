@@ -12,8 +12,8 @@ int main()
    cin>>divisor;
 
   quotient = dividend/divisor;
-  remainder = dividend % divisor;
 
+  remainder = dividend % divisor;
   cout<<"Quotient="<<quotient<<endl;
   cout<<"Remainder="<<remainder;
 
